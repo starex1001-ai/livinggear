@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "리빙기어",
+  "brand": "LIVINGGEAR",
+  "mark": "LI",
+  "worker": "livinggear",
+  "url": "https://livinggear.webnote-lab.workers.dev",
+  "description": "리빙기어의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "리빙기어, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "리빙기어의 정보와 실용 가이드를 정리합니다.",
+      "name": "리빙기어",
+      "slug": "livinggear"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/livinggear/issues"
+}
